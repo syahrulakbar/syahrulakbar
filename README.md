@@ -1,7 +1,7 @@
 Assalamualaikum Everyone,
 - 👋 Hi, I’m @syahrulakbar
 - 👀 I’m interested in every things about IT
-- 🌱 I’m currently learning Website 
+- 🌱 I’m currently learning Front end web
 - 📫 How to reach me @syahrulakbar1202
 
 <!---
