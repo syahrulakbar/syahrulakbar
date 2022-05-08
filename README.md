@@ -2,7 +2,7 @@ Assalamualaikum Everyone,
 - 👋 Hi, I’m @syahrulakbar
 - 👀 I’m interested in every things about IT
 - 🌱 I’m currently learning Front end web
-- 📫 How to reach me @syahrulakbar1202
+- 📫 How to reach me @sepatuhitamkukotor
 
 <!---
 syahrulakbar/syahrulakbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
