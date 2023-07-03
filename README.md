@@ -2,11 +2,8 @@
 
 ⚡Web Developer Enthusiast
 
-### 📊&nbsp;GitHub Analytics
 
-<div style="display: block">
-  <img height="153em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syahrulakbar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=syahrulakbar&theme=dark" alt="github streak" /></p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
